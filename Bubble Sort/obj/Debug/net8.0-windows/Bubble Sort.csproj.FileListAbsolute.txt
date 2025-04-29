@@ -1,0 +1,32 @@
+C:\Users\427\Desktop\Bubble Sort\bin\Debug\net8.0-windows\Bubble Sort.exe
+C:\Users\427\Desktop\Bubble Sort\bin\Debug\net8.0-windows\Bubble Sort.deps.json
+C:\Users\427\Desktop\Bubble Sort\bin\Debug\net8.0-windows\Bubble Sort.runtimeconfig.json
+C:\Users\427\Desktop\Bubble Sort\bin\Debug\net8.0-windows\Bubble Sort.dll
+C:\Users\427\Desktop\Bubble Sort\bin\Debug\net8.0-windows\Bubble Sort.pdb
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\Bubble_Sort.Form1.resources
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.csproj.GenerateResource.cache
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.AssemblyInfo.cs
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.dll
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\refint\Bubble Sort.dll
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.pdb
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.genruntimeconfig.cache
+C:\Users\427\Desktop\Bubble Sort\obj\Debug\net8.0-windows\ref\Bubble Sort.dll
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\bin\Debug\net8.0-windows\Bubble Sort.exe
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\bin\Debug\net8.0-windows\Bubble Sort.deps.json
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\bin\Debug\net8.0-windows\Bubble Sort.runtimeconfig.json
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\bin\Debug\net8.0-windows\Bubble Sort.dll
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\bin\Debug\net8.0-windows\Bubble Sort.pdb
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\Bubble_Sort.Form1.resources
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.AssemblyInfo.cs
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.dll
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\refint\Bubble Sort.dll
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.pdb
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\Bubble Sort.genruntimeconfig.cache
+C:\Users\user\Desktop\Bubble Sort\Bubble Sort\obj\Debug\net8.0-windows\ref\Bubble Sort.dll
